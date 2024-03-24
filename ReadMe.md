@@ -1,4 +1,5 @@
-# 💫 About Me:
+# :wave: I'm Richard! Welcome to my repo!
+💫 About Me:<br>
 🌱 I’m currently learning software engineering on a Hyperion Cogrammar Bootcamp<br>💬 Ask me about my learning journey<br>
 
 
